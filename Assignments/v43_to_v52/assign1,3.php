@@ -34,6 +34,8 @@ function  get_argument(){
 echo get_argument("Hello", "Elzero", "Web", "School"); // Hello Elzero Web School
 echo get_argument("I", "Love", "PHP");
 
+
+
 //assign 3
 function sum_all(...$args){
     $res = 0;
