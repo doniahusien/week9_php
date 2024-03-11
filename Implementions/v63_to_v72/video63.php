@@ -1,9 +1,9 @@
 <?php
 
-$friens=["haneen","samia","sohir","rahma","eman"];
+$friends=["haneen","samia","sohir","rahma","eman"];
 
 echo "<pre>";
-print_r(array_chunk($friens,3));
+print_r(array_chunk($friends,3));
 echo "</pre>";
 
 
