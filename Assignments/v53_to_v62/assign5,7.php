@@ -14,11 +14,9 @@ echo "<br>";
 $chars = ["E", "l", "z", "e", "r", "o"];
 echo implode("", $chars);
 
-echo "<br>";
-echo "<br>";
-echo "<br>";
-//assign 7
 
+//assign 7
 $chars = ["E", 1, 2, "l", "z", "E", "R", "o"];
-echo "<br>";
-echo ucfirst(strtolower(implode($chars)));
+
+unset($chars[1], $chars[2]);
+echo ucfirst(strtolower(implode('', $chars)));
