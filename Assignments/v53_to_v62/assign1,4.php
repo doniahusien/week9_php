@@ -30,7 +30,6 @@ echo str_repeat(str_pad(strtolower($str),++$num,$char),--$num);
 echo "<br>";
 
 //assign 4
-
 $str = "<div><b>Elzero</b></div>";
 echo strip_tags($str,"<b>");
 // <b>Elzero</b>
