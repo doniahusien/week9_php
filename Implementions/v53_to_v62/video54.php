@@ -1,5 +1,4 @@
 <?php
-
 $str = "Sohir";
 
 echo lcfirst("Samia") . "<br>";

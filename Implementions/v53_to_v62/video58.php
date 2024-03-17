@@ -17,7 +17,6 @@ echo str_pad("1313",8,0,STR_PAD_BOTH) . "<br>";
 echo str_pad("15435",8,0,STR_PAD_LEFT) . "<br>";
 echo str_pad("500432" ,8,0,STR_PAD_LEFT). "<br>";
 
-
 echo strtr("E@zero web schoo@","@","l")."<br>";
 
 $trArr = ["@" => "l", "#" => "o"];

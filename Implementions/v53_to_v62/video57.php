@@ -23,8 +23,6 @@ echo "<br>";
 var_dump(strrpos("Hello Hello","H",5));
 echo "<br>";
 
-
-
 var_dump(stripos("Hello Hello","h"));
 echo "<br>";
 var_dump(strripos("Hello Hello","h"));

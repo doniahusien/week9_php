@@ -14,7 +14,6 @@ echo substr_replace("Elzero_Web_School", "A", 7,-2)."<br>";//Elzero_Aol
 echo substr_replace("Elzero_Web_School", "A", 7,-9)."<br>";//Elzero_Aeb_School
 echo substr_replace("Elzero_Web_School", "A", 7,-10)."<br>";//Elzero_AWeb_School
 
-
 //insert not replace
 echo substr_replace("Elzero_Web_School", "@", 1,0)."<br>";//E@lzero_Web_School
 

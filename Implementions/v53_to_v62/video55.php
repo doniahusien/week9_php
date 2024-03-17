@@ -2,6 +2,7 @@
 $str = "elzero web school Is cool";
 $names = ["Haneen", "Eman", "Rahma", "Zahraa"];
 
+
 echo implode(" ", $names);
 echo implode(", ", $names)."<br>";
 

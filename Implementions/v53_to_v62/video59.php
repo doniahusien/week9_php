@@ -6,6 +6,7 @@ echo "Replaces count is $r <br>";
 
 echo str_replace(["@", "#"], ["o", "l"], "e#zer@ web sch@@#", $r);
 
+
 echo "<pre>";
 print_r(str_replace("one", "1", ["one","two","one","three","one"]));
 print_r(str_replace(["one","two"], ["1","2"], ["one","two","one","three","one"]));

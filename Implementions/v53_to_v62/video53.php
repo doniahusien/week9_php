@@ -1,5 +1,4 @@
 <?php
-
 $str = "Hanin";
 
 echo $str[0]."<br>";

@@ -1,5 +1,4 @@
 <?php
-
 echo strstr("Elzero Web" , "W") . "<br>";
 echo strstr("Elzero Web" , "z") . "<br>";
 echo strstr("Elzero Web" , "W",true) . "<br>";
