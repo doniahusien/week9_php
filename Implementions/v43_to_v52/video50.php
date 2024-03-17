@@ -4,6 +4,7 @@ function addFive($num){
     return $num;
 }
 
+
 $n = 10;
 echo addFive($n)."<br>";//15 by value
 echo $n."<br>";//10
