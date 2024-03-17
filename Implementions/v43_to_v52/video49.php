@@ -24,6 +24,5 @@ if(function_exists("test")){
 }
 
 echo strlen(("hello"));
-
 $func3 = "strlen";
 echo $func3("hello");

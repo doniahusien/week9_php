@@ -3,7 +3,6 @@ $say_hello = fn ($someone)=> "Hello $someone <br>";
 
 echo $say_hello("Hanin");
 
-
 $say_hola = fn ($someone)=>"Hola $someone <br>";
 echo $say_hola("Hanin");
 
