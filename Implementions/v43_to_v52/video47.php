@@ -13,6 +13,7 @@ function sumNum(){
 }
 sumNum(8, 8, 7, 3, 4);
 
+
 function calc(...$nums){
     $sum=0;
     foreach (func_get_args() as $arg) {

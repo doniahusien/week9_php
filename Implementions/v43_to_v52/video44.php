@@ -15,6 +15,7 @@ function deep_freezer($item){
     }else{
         echo "unknown";
     }
+    
 }
 deep_freezer("water");
 deep_freezer("juice");

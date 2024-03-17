@@ -22,6 +22,7 @@ if(function_exists("test")){
 }else{
     echo "not found";
 }
+
 echo strlen(("hello"));
 $func3 = "strlen";
 echo $func3("hello");

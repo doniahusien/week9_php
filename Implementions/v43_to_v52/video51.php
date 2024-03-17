@@ -28,10 +28,6 @@ echo "<pre>";
 print_r($numsAfterAdd);
 echo "</pre>";
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 22e9bc66c8af19557c74cd900c288fe56f152f98
 $numsAfterAddTen = array_map(function ($item) {
     return $item + 10;
 }, $nums);
