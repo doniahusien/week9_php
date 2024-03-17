@@ -29,7 +29,6 @@ print_r($numsAfterAdd);
 echo "</pre>";
 
 
-
 $numsAfterAddTen = array_map(function ($item) {
     return $item + 10;
 }, $nums);

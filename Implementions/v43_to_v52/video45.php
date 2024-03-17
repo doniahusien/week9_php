@@ -8,7 +8,6 @@ get_num(2,5);
 $prize_num = get_num(2,5);
 var_dump($prize_num);Null
 */
-
 function get_nums($one, $two){
     return $one + $two;
 }
