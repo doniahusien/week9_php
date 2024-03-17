@@ -1,4 +1,5 @@
 <?php
+
 function sumNum(){
     echo func_num_args()."<br>";//number of args 2
     echo func_get_arg(2)."<br>";

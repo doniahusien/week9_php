@@ -3,6 +3,7 @@ $prizes = ["PC", "XBOX", "TV", "Laptop", "ipad", "Playstation"];
 function get_num($one, $two){
     echo $one + $two;
 }
+
 /*
 get_num(2,5);
 $prize_num = get_num(2,5);

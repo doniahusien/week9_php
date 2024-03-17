@@ -5,5 +5,4 @@ function getData($name,$country="Private",...$skills){
         echo "**".$skill."<br>";
     }
 }
-
 getData("Ali","Egypt","HTML","CSS");

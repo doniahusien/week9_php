@@ -1,5 +1,4 @@
 <?php
-
 function say_hello($one,$two){
     echo "Hello $one $two<br>";
 }
