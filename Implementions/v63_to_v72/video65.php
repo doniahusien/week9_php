@@ -28,7 +28,6 @@ echo "<pre>";
 print_r( array_pad($padArr,-10,"D") );
 echo "</pre>";
 
-
 $nums = [10, 5, 2, 10];
 
 echo array_product($nums)."<br>";

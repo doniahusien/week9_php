@@ -19,7 +19,6 @@ print_r(array_change_key_case($countries,CASE_LOWER));
 echo "</pre>";
 
 
-
 $keys = ["S", "H", "R"];
 $value = ["Samia", "Haneen", "Rahma"];
 echo "<pre>";

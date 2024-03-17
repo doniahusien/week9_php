@@ -19,8 +19,6 @@ echo "<pre>";
 print_r($chars);// without last element
 echo "</pre>";
 
-
-
 array_push($chars, "H");
 echo "<pre>";
 print_r($chars);// without last element

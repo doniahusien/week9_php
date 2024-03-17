@@ -1,5 +1,4 @@
 <?php
-
 function addTitle($f,$l){
     return "Mr $f $l";
 }

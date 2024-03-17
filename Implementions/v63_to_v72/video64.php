@@ -26,7 +26,6 @@ if(in_array(2, $srch,true)){
 }
 
 
-
 $countries = ["Eg" => "Egypt", "KSA" => "Saudi Arabia", "Sy" => "Syria", "USA" => "United States"];
 if (array_key_exists("KSA",$countries)){
     echo "IS FOUND and full name is ".$countries["KSA"];

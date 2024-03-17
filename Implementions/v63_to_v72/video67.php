@@ -26,7 +26,6 @@ echo "<pre>";
 print_r(array_replace($mergeThree, $mergeFour));
 echo "</pre>";
 
-
 $nums = [1, 2, 3, 8, 6];
 echo array_rand($nums) . "<br>";//random key not value
 echo $nums[array_rand($nums)];

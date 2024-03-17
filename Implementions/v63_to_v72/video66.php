@@ -1,5 +1,6 @@
 <?php
 
+
 $friends=["haneen","rahma","samia","sohir","rahma","eman"];
 echo current($friends) . "<br>";//haneen
 echo next($friends) . "<br>";//rahma
