@@ -13,7 +13,6 @@ echo "<pre>";
 print_r(array_chunk( $friends,2,true));
 echo "<pre>";
 
-
 //assign 2
 $codes = ["H", "C", "J"];
 $means = ["HTML", "CSS", "JavaScript"];

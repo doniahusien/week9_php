@@ -12,7 +12,6 @@ end($names);
 
 echo current($names) . "<br>"; // "Ali"
 
-
 reset($names);
 
 echo current($names) . "<br>"; // "Osama"

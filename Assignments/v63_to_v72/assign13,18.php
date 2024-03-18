@@ -12,7 +12,6 @@ function maxE(array $arr){
 }
 echo maxE($nums)."<br>";
 
-
 //assign 14
 $nums = [10, 100, -20, 50, 30];
 
