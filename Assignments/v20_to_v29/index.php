@@ -10,7 +10,6 @@ echo "<br>";
 echo gettype(+$a);
 echo "<br>";
 
-
 $a = "10";
 echo 0+$a;
 echo "<br>";
