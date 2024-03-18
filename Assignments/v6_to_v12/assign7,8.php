@@ -6,7 +6,6 @@ echo gettype((int)(bool)"Hello PHP");
 
 echo '<br>';
 
-
 //assign 8
 echo "<pre>";
 print_r([

@@ -19,7 +19,6 @@ We Love $Programming$
 Language specially "PHP"
 txt);
 
-
 echo "<br>";
 //assign 6
 $something = "Programming";
@@ -28,7 +27,6 @@ echo <<<"code"
 Hello \PHP\
 We Love $something
 code;// [1] Fix The Error
-
 
 // [2] Remove 2 Characters To Get The Output
 // Needed Output
