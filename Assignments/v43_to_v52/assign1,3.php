@@ -13,7 +13,6 @@ echo greeting("Osama", "Male"); // Hello Mr Osama
 echo greeting("Eman", "Female"); // Hello Miss Eman
 echo greeting("Sameh"); // Hello Sameh
 
-
 //assign 2
 function  get_arguments(...$args){
     $all="";

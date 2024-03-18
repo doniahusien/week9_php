@@ -1,7 +1,6 @@
 <?php
 //assign  4
 function multiply(...$args):int{
-
     $res = 1;
     foreach ($args as $arg) {
         if(is_string($arg)){
