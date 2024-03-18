@@ -9,7 +9,6 @@ echo "<br>";
 echo $a;
 echo "<br>";
 
-
 //by refrence 
 $x = "Samia";
 $y = &$x;

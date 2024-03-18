@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP Page | <?=$user?></title>
 </head>
+
 <body>
     <div>Welcome <?=$user?></div>
     <div> <?=$user?>,You scored 8000 Points</div>
