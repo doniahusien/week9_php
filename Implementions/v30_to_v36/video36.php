@@ -1,7 +1,6 @@
 <?php
 
 $day = "sat";
-
 switch ($day) {
     case 'sat':
         echo "Hello today is $day open from 10:00";

@@ -13,7 +13,6 @@ if($title == ""){
     echo $title;
 }
 echo "<br>";
-
 $lang = "Arabic";
 
 if($lang == "Arabic"){

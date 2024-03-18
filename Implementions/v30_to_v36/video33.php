@@ -3,7 +3,6 @@ if (8 > 6) echo "Good";
 else echo "bad";
 
 echo "<br>";
-
 ?>
 <?php if (8 > 6) : ?>
 <!DOCTYPE html>

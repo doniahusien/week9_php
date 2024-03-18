@@ -4,7 +4,6 @@ echo $_POST["username"];
 echo "<br>";
 echo $_POST["lang"];
 */
-
 if ($_SERVER["REQUEST_METHOD"]=="POST"){
     if ($_POST["lang"]=="ar"){
         header("Location: ar.php");
