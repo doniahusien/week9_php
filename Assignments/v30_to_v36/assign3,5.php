@@ -55,4 +55,3 @@ if ($age > 18 && gettype($name) === "string" &&$country === "Egypt") {
     echo "The Name Is Good To Go";
     echo "The Country Is Good To Go";
 }
-
