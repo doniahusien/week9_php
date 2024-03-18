@@ -1,7 +1,6 @@
 <?php 
 echo "we Love PHP ";
 echo "<br>";
-
 ECHO "we love php";
 ECHO "<br>";
 
