@@ -1,4 +1,5 @@
 <?php
+
 //assign 2
 $name = "elzero";
 $$name = "Web";

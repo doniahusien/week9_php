@@ -8,6 +8,7 @@
     <meta name="description" content=<?=$user?>>
     <title>Welcome To <?=$user?></title>
   </head>
+  
   <body>
     <h1><?=$user?></h1>
     <p>Here In <?=$user?> We Provide Front-End And Back-End Courses</p>
