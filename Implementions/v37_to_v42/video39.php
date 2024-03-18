@@ -10,7 +10,6 @@ for (; $j <5 ; ) {
     $j++;
 }
 
-
 $index = 0;
 for (;; ) {
     if ($index == 3) {

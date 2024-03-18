@@ -7,7 +7,6 @@ foreach ( ['EG', "SA", "QA","USA"]as $country) :
     echo "$country <br>";
 endforeach;
 
-
 foreach ( ['EG', "SA", "QA","USA"]as $country) :
     if($country=="QA"){
         continue;

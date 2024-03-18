@@ -8,7 +8,6 @@ foreach ($countries as $country) :
     echo "$country <br>";
 endforeach;
 
-
 $countries_disc = ['EG'=>50, "SA"=>20, "QA"=>70];
 echo "<pre>";
 print_r($countries_disc);

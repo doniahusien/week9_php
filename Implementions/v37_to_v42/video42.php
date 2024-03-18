@@ -15,8 +15,6 @@ include_once("test.php");
 echo "$a<br>"; //50
 echo "Continue <br>";
 
-
-
 //require("test.php"); like die
 require("test.php");
 echo "$a<br>";
