@@ -20,6 +20,7 @@ do {
     echo "$index <br>";
 } while ($index < 20);
 
+
 for ($index = 0; $index <= 20;$index++) {
     if ($index %2 != 0 ||$index==0) {
         continue;

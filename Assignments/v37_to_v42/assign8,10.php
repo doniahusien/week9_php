@@ -21,6 +21,7 @@ for ($i = 0; $i < count($names);$i++){
     }
 }
 
+
 //assign 10
 $help_num = 4;
 $nums = [2, 4, 5, 6, 10];
