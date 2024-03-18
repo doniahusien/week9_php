@@ -17,7 +17,6 @@
     <div><?php echo" Elzero Channel"?></div>
   </body>
 </html>
-
 <?php
 //assign 2
 
