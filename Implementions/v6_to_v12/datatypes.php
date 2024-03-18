@@ -19,6 +19,7 @@ echo gettype(8 + "8 L");//int warning
 echo "<br>";
 echo "<br>";
 
+
 echo 8 + 6.8;
 echo "<br>";
 echo gettype(8+8.6);

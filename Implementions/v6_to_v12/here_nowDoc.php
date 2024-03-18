@@ -9,7 +9,6 @@ $age
 Here;
 
 echo "<br>";
-
 //escape without parsing
 echo <<<'Now'
 Hello PHP

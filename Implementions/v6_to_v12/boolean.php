@@ -8,6 +8,7 @@ echo "<br>";
 var_dump((bool) "0");
 echo "<br>";
 
+
 // true 
 var_dump((bool) "test");
 echo "<br>";
