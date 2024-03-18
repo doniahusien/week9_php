@@ -14,6 +14,7 @@ echo "<br>";
 echo $A;//1
 echo "<br>";
 
+
 //pre increment
 $b= 0;
 echo ++$b;//1

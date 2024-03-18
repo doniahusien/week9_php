@@ -14,7 +14,6 @@ echo "<br>";
 echo gettype(8.5 * 6);
 echo "<br>";
 
-
 echo 20 / 10;
 echo "<br>";
 echo gettype(20 / 10);

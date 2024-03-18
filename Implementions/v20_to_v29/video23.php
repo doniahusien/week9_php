@@ -10,7 +10,6 @@ echo "<br>";
 var_dump(8 <= 6);
 echo "<br>";
 
-
 //greater return 0
 var_dump(60 <=> 80);//less return -1
 echo "<br>";

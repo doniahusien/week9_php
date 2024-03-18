@@ -9,5 +9,6 @@ echo"<pre>";
     print_r($f);
 echo "</pre>";
 
+
 //include 
 include("text.txt");

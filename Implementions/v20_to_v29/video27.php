@@ -17,6 +17,7 @@ $arr7 = [2 => 200, 1 => 100];
 var_dump($arr6 === $arr7);//true
 echo "<br>";
 
+
 $arr6 = [1 => 100, 2 => 200];
 $arr7 = [2 => 200, 1 => 100];
 var_dump($arr6 === $arr7);//false (not order)
