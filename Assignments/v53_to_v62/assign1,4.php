@@ -13,7 +13,6 @@ echo str_replace([$str[$num_one],$str[(int)$num_two]],[$let_one,$let_two], $str)
 
 echo "<br>";
 
-
 //assign 2
 $str = "Orezle";
 
